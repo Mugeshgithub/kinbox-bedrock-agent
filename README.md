@@ -18,6 +18,17 @@ https://github.com/Mugeshgithub/kinbox-bedrock-agent/raw/main/media/kinbox-demo.
 
 *(Uploading a document, asking "what's my engine number?", and getting the exact answer with the source file named — all powered by Claude on Amazon Bedrock.)*
 
+### Screenshots
+
+**Landing page — ask-anything, never miss a renewal**
+![Kinbox landing page](media/1.png)
+
+**Your family dashboard — everything in one place, with what needs attention surfaced**
+![Kinbox home dashboard](media/2.png)
+
+**Ask anything — the assistant answers from your documents and flags what's expiring**
+![Kinbox assistant answering about expiring documents](media/3.png)
+
 ---
 
 ## What it is and who it's for
