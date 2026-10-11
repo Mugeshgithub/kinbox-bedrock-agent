@@ -26,6 +26,8 @@ Kinbox is a private vault for the documents families actually need but can never
 
 Instead of scrolling through ten-page PDFs, you get the exact answer in a sentence, with the source document named.
 
+It's built for the whole family, not one person. You set up your vault, then **invite your family with a unique link**. They open the link, sign in, and join your shared space, so everyone can keep and find the household's documents together. The invite links are **single-use and expiring**, so access stays controlled.
+
 ## The biggest leverage: it watches your deadlines
 
 Answering questions is useful, but the real value is that Kinbox is **proactive**. Every document is read for its expiry or renewal date, and those dates are surfaced for you automatically:
