@@ -5,6 +5,8 @@
 **Built by [Mugesh Murugaiyan](https://github.com/Mugeshgithub) · CognivexAI**
 `#agents`
 
+**Live app:** https://kinbox-two.vercel.app
+
 > **Note on the code:** The full source is kept private for security and commercial reasons, since Kinbox handles people's private documents. This repository is a public write-up and demo of the agent for the AWS "Build an agent people actually enjoy using" challenge.
 
 ---
