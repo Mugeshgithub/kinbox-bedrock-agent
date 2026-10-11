@@ -24,6 +24,24 @@ Kinbox is a private vault for the documents families actually need but can never
 
 Instead of scrolling through ten-page PDFs, you get the exact answer in a sentence, with the source document named.
 
+## The biggest leverage: it watches your deadlines
+
+Answering questions is useful, but the real value is that Kinbox is **proactive**. Every document is read for its expiry or renewal date, and those dates are surfaced for you automatically:
+
+- Documents are shown **in a line with their expiry date**, and anything **expiring soon or already expired is flagged**, so you can see at a glance what needs attention.
+- A daily job sends **reminders before a document expires** (30 days out, 7 days out, and on expiry), so a residence permit, insurance policy, or passport never lapses because someone forgot.
+
+That turns Kinbox from a place you *search* into a quiet assistant that tells you what matters *before* it becomes a problem. For families managing paperwork across countries, a missed renewal can mean a fine, a lapse in cover, or a visa problem, so catching it early is the whole point.
+
+## Privacy and security
+
+Kinbox holds people's most sensitive documents, so privacy is built in, not bolted on:
+
+- **Your conversations are not saved.** The assistant reads your documents to answer a question and keeps **no log** of what you asked. There is no chat history stored anywhere.
+- **Data stays in the EU**, stored encrypted at rest in **private, per-family storage**.
+- **Strict isolation:** row-level security means no family can ever see another family's documents, and the AI only ever has access to the asking user's own documents — so even a cleverly worded question can't reach anyone else's data.
+- **Private by default:** identity, financial, and medical documents are automatically marked owner-only.
+
 ## How I built it
 
 The agent runs on **Amazon Bedrock**, using **Claude Haiku 4.5** through Bedrock's **EU inference profile**, so inference stays in-region — which matters for a product holding people's private documents.
